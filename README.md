@@ -59,7 +59,7 @@ Output :
 
 <hr>
 
-Untuk melakukan modularisasi dengan pada file ini (index.php), hanya perlu menambahkan `require('../header.php')` pada awal kode dan `require('../footer.php')` pada akhir kode. Dimana pada kasus saya, file-file tersebut disimpan pada parent direktori.
+Untuk melakukan modularisasi dengan file ini (index.php), saya hanya perlu menambahkan `require('../header.php')` pada awal kode dan `require('../footer.php')` pada akhir kode. Dimana pada kasus saya, file-file tersebut disimpan pada parent direktori.
 
 ![enter image description here](https://github.com/antonmartinus72/Lab9Web/raw/main/Screenshot/5_code.jpg)
 
